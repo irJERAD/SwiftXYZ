@@ -21,7 +21,7 @@ struct SwiftXYZ: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://swift.jerad.XYZ")!
+    var url = URL(string: "https://swift.jerad.xyz")!
     var name = "SwiftXYZ"
     var description = "A site build by Swift; for jerad"
     var language: Language { .english }
